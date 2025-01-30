@@ -1,0 +1,33 @@
+{
+    "name": "witherdb",
+    "version": "1.0.0",
+    "description": "WitherDB is a lightweight, file-based NoSQL database for Node.js.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/WitherJS/witherdb.git"
+    },
+    "keywords": [
+      "database",
+      "NoSQL",
+      "file-based",
+      "Node.js"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/WitherJS/witherdb/issues"
+    },
+    "homepage": "https://github.com/WitherJS/witherdb#readme",
+    "devDependencies": {
+      "jest": "^27.0.0"
+    },
+    "dependencies": {
+      "fs": "^0.0.1-security",
+      "path": "^0.12.7"
+    }
+  }
+  
